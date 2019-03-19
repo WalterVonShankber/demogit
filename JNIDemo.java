@@ -1,5 +1,5 @@
 
-public class JNIDemo {
+psdfafublic class JNIDemo {
 	static { 		/* 1. load */
 		System.loadLibrary("native"); /* libnative.so */
  	}
